@@ -1,69 +1,66 @@
-# Caleb Delancey
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Caleb%20Delancey&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
 
-### Software Developer | Game Development | Web Development
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Caleb-Delancey">
+    <img src="https://komarev.com/ghpvc/?username=Caleb-Delancey&label=Profile%20views&color=00FFFF&style=flat-square" alt="Caleb-Delancey's profile views" />
+  </a>
+</p>
 
-Welcome to my GitHub profile.
+## 📌 About Me
+- I am currently Interested in: Software development, Game development, Web development, Cybersecurity, Modeling
+- My Hobbies: Playing Video Games
+- My Online Alias: Glitched Da Kitty Cat
 
-I'm **Caleb Delancey**, a software developer interested in building practical software, exploring new technologies, and developing projects across web, game, and software environments.
 
-**Glitched Da Kitty Cat** is my primary online developer identity. You may encounter this name across my projects, repositories, development communities, and other online platforms.
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Caleb-Delancey">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caleb-Delancey&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Caleb-Delancey's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Caleb-Delancey&theme=dark&hide_border=true&cache_seconds=86400" alt="Caleb-Delancey's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Caleb-Delancey&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Caleb Delancey's GitHub Trophies" />
+</p>
 
----
 
-## About
+## 🛠️ Languages & Tools
 
-I enjoy learning through hands-on development and building projects that allow me to explore different areas of software engineering.
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 
-My interests include:
+</p>
 
-* Software development
-* Game development
-* Web development
-* Software architecture
-* Cybersecurity and secure development
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 
----
+</p>
 
-## Technical Interests
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
 
-### Languages
+</p>
 
-* Python
-* JavaScript
-* HTML / CSS
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 
-### Platforms & Technologies
+</p>
 
-* GitHub
-* Unity
-* Cloudflare
-* Web Technologies
+![Top language](https://stats.pphat.top/languages?username=Caleb-Delancey)
+<br/>
 
-My technology stack is continually evolving as I work on new projects and expand my software engineering skills.
-
----
-
-## Currently Learning
-
-I'm continuing to develop my skills in:
-
-* Cyber Security
-* Information Technology
-* Software Development
-* Ui Development
-
----
-
-## Online Identity
-
-If you've encountered **Glitched Da Kitty Cat**, **Glitched**, or **Glitched Studios** in a development community or project, these names refer to my online development identity and projects.
-
-**Caleb Delancey** is my real-world name.
-
-**Glitched Da Kitty Cat** is my online developer identity.
-
----
-
-## Links/Socials
-
-* **Developer Website:** [glitched-da-kitty-cat.is-a.dev](https://glitched-da-kitty-cat.is-a.dev/)
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/caleb-delancey/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="'s LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@glitcheddacat"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="'s YouTube"/></a>&nbsp;&nbsp;
+  <a href="mailto:contact@glitched-da-kitty-cat.is-a.dev"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="'s Email"/></a>&nbsp;&nbsp;
+  <a href="https://glitched-da-kitty-cat.is-a.dev/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
