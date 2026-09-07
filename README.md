@@ -53,8 +53,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 
 </p>
-
-![Top language](https://stats.pphat.top/languages?username=Caleb-Delancey)
 <br/>
 
 ## 🔗 Connect with Me
