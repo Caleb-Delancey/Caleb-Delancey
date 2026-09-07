@@ -8,7 +8,7 @@
 
 ## 📌 About Me
 - I am currently Interested in: Software development, Game development, Web development, Cybersecurity, Modeling
-- My Hobbies: Playing Video Games, listening to music, working out
+- My Hobbies: Playing Video Games, listening to music, and working out
 - My Online Alias: Glitched Da Kitty Cat
 
 
