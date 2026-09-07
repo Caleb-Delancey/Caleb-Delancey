@@ -57,8 +57,11 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/caleb-delancey/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="'s LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@glitcheddacat"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="'s YouTube"/></a>&nbsp;&nbsp;
-  <a href="mailto:contact@glitched-da-kitty-cat.is-a.dev"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="'s Email"/></a>&nbsp;&nbsp;
-  <a href="https://glitched-da-kitty-cat.is-a.dev/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://www.linkedin.com/in/caleb-delancey/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@glitcheddacat"><img src="https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=ffffff" alt="YouTube"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:contact@glitched-da-kitty-cat.is-a.dev"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://glitched-da-kitty-cat.is-a.dev/"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=google-chrome&logoColor=ffffff" alt="Website"></a>
 </p>
